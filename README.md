@@ -1,36 +1,50 @@
-# Croma-Inspired-Smartphone-Sales-Dashboard-Power-BI
-An interactive Smartphone Sales Analytics Dashboard created using Microsoft Power BI, inspired by a Croma-style retail environment.
+📱 Croma-Inspired Smartphone Sales Dashboard | Power BI
+
+An interactive Smartphone Sales Analytics Dashboard built in Microsoft Power BI, inspired by a Croma-style retail environment. This project transforms raw smartphone sales data into actionable business insights using DAX, data modeling, and interactive visualizations.
 
 📊 Project Overview
+This dashboard provides a 360° view of smartphone sales performance — covering brand/model trends, city-wise performance, payment methods, customer ratings, and time-based sales patterns. It's designed to mimic how a real retail analytics team would monitor and act on sales data.
 
-This dashboard transforms smartphone sales data into meaningful business insights through interactive visuals, KPIs, DAX calculations, and data modeling.
+🖼️ Dashboard Preview
+Replace the placeholders below with your actual screenshots (drag images into the repo, e.g. /screenshots/overview.png)
 
 🔍 Key Features
-📱 Sales analysis by Brand & Model
-📍 Sales performance by City
-💳 Transactions by Payment Method
-⭐ Customer Rating Analysis
-📅 Monthly and daily Sales & Quantity Trends
-🎯 Dynamic KPIs using DAX
-🔎 Interactive filters and slicers
+📱 Sales Analysis by Brand & Model — compare performance across smartphone brands and individual models
+📍 Sales Performance by City — identify top and underperforming locations
+💳 Transactions by Payment Method — breakdown of cash, card, UPI, EMI, etc.
+⭐ Customer Rating Analysis — correlate ratings with sales volume and revenue
+📅 Monthly & Daily Sales/Quantity Trends — spot seasonality and demand spikes
+🎯 Dynamic KPIs — total sales, quantity sold, average rating, and more, powered by DAX
+🔎 Interactive Filters & Slicers — drill down by brand, city, date, or payment method
+
 🛠️ Tools & Technologies
 Microsoft Power BI
-DAX
-Data Modeling
-Data Analysis
-Data Visualization
-💡 Key Learning
+DAX (Data Analysis Expressions)
+Data Modeling (Star Schema)
+Data Analysis & Visualization
 
-This project helped strengthen my practical skills in Power BI, DAX, data modeling, KPI development, and business-focused dashboard design. It demonstrates how raw sales data can be transformed into interactive and easy-to-understand business insights.
+📁 Project Files
+File	Description
+Smartphone Sales Dashboard.pbix	Power BI dashboard file
+data/	Sample dataset used for the dashboard
+screenshots/Dashboard preview images
+
+📈 Key Learnings
+This project strengthened my practical skills in:
+
+Power BI report design and UX
+DAX for KPI and trend calculations
+Data modeling and relationships
+Translating raw data into business-focused insights
 
 ⚠️ Disclaimer
+This is a portfolio/practice project built using sample data for learning and demonstration purposes only. It is inspired by a Croma-style retail environment, but does not use actual Croma sales data and is not affiliated with or endorsed by Croma.
 
-This is a portfolio/practice project created using sample data for learning and demonstration purposes. The dashboard is inspired by a Croma retail environment, but the data used is not actual Croma sales data.
-
-📁 Project File
-Smartphone Sales Dashboard.pbix – Power BI dashboard file
-🚀 Project Goal
-
-To build an interactive and business-focused sales dashboard while continuously improving my Data Analytics and Business Intelligence skills.
+🎯 Project Goal
+To build an interactive, business-focused sales dashboard while continuously improving Data Analytics and Business Intelligence skills.
 
 Learning → Building → Improving 📈
+
+🔗 Connect With Me
+LinkedIn: linkedin.com/in/abhishek-kumar-83998b274 
+Email: abhishekk2614@gmail.com
