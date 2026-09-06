@@ -55,5 +55,6 @@ Learning → Building → Improving 📈
 
 🔗 Connect With Me
 
-LinkedIn: linkedin.com/in/abhishek-kumar-83998b27 
+LinkedIn: linkedin.com/in/abhishek-kumar-83998b27
+
 Email: abhishekk2614@gmail.com
