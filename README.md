@@ -1,4 +1,4 @@
-# -Croma-Inspired-Smartphone-Sales-Dashboard-Power-BI
+# Croma-Inspired-Smartphone-Sales-Dashboard-Power-BI
 An interactive Smartphone Sales Analytics Dashboard created using Microsoft Power BI, inspired by a Croma-style retail environment.
 
 📊 Project Overview
