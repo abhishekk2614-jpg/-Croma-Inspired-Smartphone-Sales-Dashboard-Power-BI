@@ -13,11 +13,17 @@ Replace the placeholders below with your actual screenshots (drag images into th
 🔍 Key Features
 
 📱 Sales Analysis by Brand & Model — compare performance across smartphone brands and individual models
+
 📍 Sales Performance by City — identify top and underperforming locations
+
 💳 Transactions by Payment Method — breakdown of cash, card, UPI, EMI, etc.
+
 ⭐ Customer Rating Analysis — correlate ratings with sales volume and revenue
+
 📅 Monthly & Daily Sales/Quantity Trends — spot seasonality and demand spikes
+
 🎯 Dynamic KPIs — total sales, quantity sold, average rating, and more, powered by DAX
+
 🔎 Interactive Filters & Slicers — drill down by brand, city, date, or payment method
 
 🛠️ Tools & Technologies
