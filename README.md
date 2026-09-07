@@ -51,7 +51,7 @@ Translating raw data into business-focused insights
 
 ⚠️ Disclaimer
 
-This is a portfolio/practice project built using sample data for learning and demonstration purposes only. It is inspired by a Croma-style retail environment, but does not use actual Croma sales data and is not affiliated with or endorsed by Croma.
+This is a practice project built using sample data for learning and demonstration purposes only. It is inspired by a Croma-style retail environment, but does not use actual Croma sales data and is not affiliated with or endorsed by Croma.
 
 🎯 Project Goal
 
